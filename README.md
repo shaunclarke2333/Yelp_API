@@ -1,4 +1,4 @@
-# Yelp_API
+# Used python scripting to pull and convert Yelp_API JSON data to dataframe
 
 This is data collection from the Yelp API which returned the data in JSON format.
 
